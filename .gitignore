@@ -1,0 +1,15 @@
+.DS_Store
+*.log
+
+# Backend
+ProyectoBack/node_modules/
+ProyectoBack/dist/
+ProyectoBack/.env
+ProyectoBack/coverage/
+# Frontend (Flutter)
+FrontFlutter/subastas_app/.dart_tool/
+FrontFlutter/subastas_app/.flutter-plugins-dependencies
+FrontFlutter/subastas_app/.pub-cache/
+FrontFlutter/subastas_app/.pub/
+FrontFlutter/subastas_app/build/
+FrontFlutter/subastas_app/coverage/

@@ -1,0 +1,11 @@
+{
+  "name": "subastas-ws-test",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test:ws": "node test-ws.js"
+  },
+  "dependencies": {
+    "socket.io-client": "^4.8.1"
+  }
+}
